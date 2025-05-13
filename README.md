@@ -16,7 +16,7 @@ The project is divided into two main sections:
 
 ## Repository Structure
 
-### `1Comb_Est_Same_Quantity/`
+### `1Comb_Est_Same_Quantity`
 Reproduces Section 2 of the paper: combining two or more estimates of the **same quantity** (e.g., unpaid claims).
 
 **Contains:**
@@ -31,7 +31,7 @@ Reproduces Section 2 of the paper: combining two or more estimates of the **same
 
 ---
 
-### `2Comb_Est_Mult_Components/`
+### `2Comb_Est_Mult_Components`
 Reproduces Sections 3 and 4: combining estimates for **multiple components** (e.g., different lines of business).
 
 **Contains:**
