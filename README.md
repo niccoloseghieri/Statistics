@@ -1,6 +1,5 @@
 # Combining Estimates – Statistics for Data Science Project
 
-**Academic Year**: 2023/2024  
 **Course**: Statistics for Data Science  
 **Based on**: *"Combining Estimates"* by Thomas Struppeck (FCAS, ASA, CERA, 2014)  
 
