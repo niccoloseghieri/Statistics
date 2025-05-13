@@ -27,7 +27,7 @@ Reproduces Section 2 of the paper: combining two or more estimates of the **same
 - `comb_two_estimates.r` – Reproduces the main example with θₐ and θᵦ and finds the optimal weighted average.
 - `comb_two_estimates_100%Corr.r` – Simulates the case where estimates are perfectly correlated (ρ = 1) and explores how correlation impacts precision.
 - `comb_more_estimates.r` – Generalizes the case to multiple estimates (≥ 3), using inverse variance weighting.
-- `plot/` – Contains all the generated plots for comparisons and CI visualization.
+- `plot` – Contains all the generated plots for comparisons and CI visualization.
 
 ---
 
